@@ -30,6 +30,9 @@ body {
   justify-content: flex-end;
   align-items: flex-end;
 }
+.container .input-usr {
+  overflow: auto;
+}
 .container .number {
   width: 100%;
   height: 80%;
