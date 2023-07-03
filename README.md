@@ -14,6 +14,7 @@ Open the index.html file in your web browser.
 Use the buttons on the calculator interface to perform calculations.
 The input area displays the current expression, and clicking "=" will show the result.
 Preview
+
 ![UI This Calculator](asets/img/ui.png)
 
 Built With
