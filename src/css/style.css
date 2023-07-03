@@ -63,13 +63,13 @@ body {
 .container .number ul li:hover {
   transform: scale(.9);
 }
-.container p {
+.container .poweredby {
   text-align: center;
   font-family: "Kanit", sans-serif;
   font-weight: 500;
   font-size: 14px;
 }
-.container p a {
+.container .poweredby a {
   text-decoration: none;
   color: black;
 }
